@@ -1,15 +1,4 @@
 #PYTHON - backend
-<!-- 
-python3 -m venv /home/USER/Documentos/Python/backend/Backend/FastAPI/venv
-
-source /home/USER/Documentos/Python/backend/Backend/FastAPI/venv/bin/activate
-
-which python
-/home/USER/Documentos/Python/backend/Backend/FastAPI/venv/bin/python
-
-pip install fastapi
-
-python -m uvicorn main:app -->
 
 <br>
 
@@ -25,5 +14,7 @@ python -m uvicorn main:app -->
 
 <br>
 
-https://github.com/user-attachments/assets/e75ff5fe-d8c0-47e6-ac94-e6b8675d1642
+![Captura desde 2024-07-25 19-21-06](https://github.com/user-attachments/assets/d684c4a5-b128-49c6-ac75-57dca6903d53)
+
+
 
