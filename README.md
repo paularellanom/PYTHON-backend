@@ -23,5 +23,7 @@ python -m uvicorn main:app -->
 
 ![FastAPI - Swagger UI](https://github.com/user-attachments/assets/3f80d524-f1c2-4964-9327-049bf76b6473)
 
+<br>
 
+https://github.com/user-attachments/assets/e75ff5fe-d8c0-47e6-ac94-e6b8675d1642
 
